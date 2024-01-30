@@ -28,6 +28,8 @@ int conv_spec(char ch, va_list lst)
 		a = va_arg(lst, unsigned int);
 		print = _print_binary(a);
 	}
+	else if (ch == 'r')
+		print = _print_reverse(lst);
 	else
 		print = print_unknown(ch);
 	return (print);
