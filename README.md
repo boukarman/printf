@@ -1,7 +1,7 @@
 1.	README.md
 
 0x11. C - printf team project
-Group Project:
+Group Project: Weight 5 
 
 Group Project:  Naoufel Boukarama and Musengayezu Jean Luc.                                                                   
                                                                                     
