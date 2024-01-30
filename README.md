@@ -61,5 +61,6 @@ Handle the following custom conversion specifier:
 ring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
-15. * TWEET ABOUT THE TASK 
+15. * TWEET ABOUT THE TASK
+All the task was a group project  
 
