@@ -61,5 +61,5 @@ Handle the following custom conversion specifier:
 ring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
-15. *
+15. * TWEET ABOUT THE TASK 
 
