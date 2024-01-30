@@ -23,6 +23,11 @@ int conv_spec(char ch, va_list lst)
 		a = va_arg(lst, int);
 		print = print_d(a);
 	}
+	else if (ch == 'b')
+	{
+		a = va_arg(lst, unsigned int);
+		print = _print_binary(a);
+	}
 	else
 		print = print_unknown(ch);
 	return (print);

@@ -17,5 +17,6 @@ int print_percent_sign(int x);
 int print_char(va_list lst);
 int print_unknown(char ch);
 int print_d(int a);
+int _print_binary(unsigned int a);
 
 #endif
