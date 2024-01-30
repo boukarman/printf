@@ -37,9 +37,9 @@ int print_str(char *str)
 }
 
 /**
- * print_percent - print percent character
- * @num: number
- * Return: num
+ * print_percent_sign - print percent character
+ * @x: number
+ * Return: x
  */
 int print_percent_sign(int x)
 {

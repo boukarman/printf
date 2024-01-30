@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _print_d - print a decimal number
+ * print_d - print a decimal number
  * @a: number
  *
  * Return: number length
