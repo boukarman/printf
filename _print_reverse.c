@@ -18,7 +18,7 @@ int _print_reverse(va_list lst)
 		return (6);
 	}
 	length = _strlen(str);
-	for (i = len - 1; i >= 0; i--)
+	for (i = length - 1; i >= 0; i--)
 		write(1, &str[i], 1);
 	return (length);
 }

@@ -32,7 +32,7 @@ int conv_spec(char ch, va_list lst)
 	else if (ch == 'r')
 		print = _print_reverse(lst);
 	else if (ch == 'R')
-		print = _print_rot(lst);
+		print = print_rot(lst);
 	else
 		print = print_unknown(ch);
 	return (print);
