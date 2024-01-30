@@ -1,7 +1,7 @@
 1.	README.md
 
 0x11. C - printf team project
-Group
+Group Project:
 
 Group Project:  Naoufel Boukarama and Musengayezu Jean Luc.                                                                   
                                                                                     
